@@ -1,0 +1,2 @@
+# NumberGuessingGame
+A Windows Batch Script game where the user attempts to guess a randomly generated number displayed in the command prompt. Generates a random number up to 1000, displays title screen to the user, prompts the user to guess the number, checks if input was higher/lower/correct, displays the results and re-prompts the user for another guess, tracks and displays how many attempts by the user. Includes a secret answer that will always be correct. 
